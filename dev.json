@@ -2,6 +2,15 @@
     "dev":  {
                 "versions":  [
                                  {
+                                     "apkSize":  32323176,
+                                     "name":  "1.0.50",
+                                     "channel":  "dev",
+                                     "versionCode":  10050,
+                                     "description":  "## Kosen Dev 1.0.50\n\nCorreções e melhorias de estabilidade e desempenho.\n\n[versionCode:10050]\n\n[channel:dev]",
+                                     "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/v1.0.50",
+                                     "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/v1.0.50/Kosen-Dev-1.0.50-debug.apk"
+                                 },
+                                 {
                                      "channel":  "dev",
                                      "name":  "1.0.49",
                                      "versionCode":  10049,

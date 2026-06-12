@@ -1,0 +1,15 @@
+{
+    "dev":  {
+                "versions":  [
+                                 {
+                                     "apkSize":  32323176,
+                                     "name":  "1.0.48",
+                                     "channel":  "dev",
+                                     "versionCode":  10048,
+                                     "description":  "## Kosen Dev 1.0.48\n\nAtualização OTA com manifesto público de fallback.\n\n## Correções\n\n- Fallback público de atualização para builds dev sem token no APK\n- Salto direto para a versão mais recente sem instalar cada intermediária\n\n[versionCode:10048]\n\n[channel:dev]",
+                                     "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/v1.0.48",
+                                     "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/v1.0.48/Kosen-Dev-1.0.48-debug.apk"
+                                 }
+                             ]
+            }
+}

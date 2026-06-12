@@ -1,0 +1,15 @@
+{
+    "release":  {
+                    "versions":  [
+                                     {
+                                         "apkSize":  17207791,
+                                         "name":  "System.Collections.Hashtable",
+                                         "channel":  "release",
+                                         "versionCode":  20006,
+                                         "description":  "[versionCode:20006]\n\n[channel:release]",
+                                         "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/vSystem.Collections.Hashtable",
+                                         "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/vSystem.Collections.Hashtable/Kosen-vSystem.Collections.Hashtable.apk"
+                                     }
+                                 ]
+                }
+}

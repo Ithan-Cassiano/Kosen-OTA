@@ -2,6 +2,15 @@
     "release":  {
                     "versions":  [
                                      {
+                                         "apkSize":  17212266,
+                                         "name":  "2.0.10",
+                                         "channel":  "release",
+                                         "versionCode":  20010,
+                                         "description":  "## Correções\n\n- Yomu: corrigido bloqueio anti-scraper que exibia conteúdo falso (capa, descrição e páginas)\n- Yomu: detalhes e capítulos passam a usar a API com token `x-ym-req` e headers de navegador\n\n[versionCode:20010]\n\n[channel:release]",
+                                         "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/v2.0.10",
+                                         "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/v2.0.10/Kosen-v2.0.10.apk"
+                                     },
+                                     {
                                          "apkSize":  17209879,
                                          "name":  "2.0.9",
                                          "channel":  "release",

@@ -2,6 +2,15 @@
     "release":  {
                     "versions":  [
                                      {
+                                         "apkSize":  17213094,
+                                         "name":  "2.0.11",
+                                         "channel":  "release",
+                                         "versionCode":  20011,
+                                         "description":  "## Correções\n\n- Yomu: corrigido erro \"Não foi possível carregar os detalhes da obra\" ao abrir mangás\n- Yomu: detalhes extraídos do HTML mesmo com bloqueio anti-scraper ativo\n- Yomu: busca na biblioteca ampliada para slugs longos\n\n[versionCode:20011]\n\n[channel:release]",
+                                         "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/v2.0.11",
+                                         "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/v2.0.11/Kosen-v2.0.11.apk"
+                                     },
+                                     {
                                          "apkSize":  17212266,
                                          "name":  "2.0.10",
                                          "channel":  "release",

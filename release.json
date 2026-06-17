@@ -2,6 +2,15 @@
     "release":  {
                     "versions":  [
                                      {
+                                         "apkSize":  17213471,
+                                         "name":  "2.0.12",
+                                         "channel":  "release",
+                                         "versionCode":  20012,
+                                         "description":  "## Correções\n\n- Yomu: corrigido erro ao carregar páginas dos capítulos\n- Yomu: IDs dos capítulos extraídos do HTML bruto (sem perda pelo parser)\n- Yomu: fallback para imagens via preload quando a API falha\n\n[versionCode:20012]\n\n[channel:release]",
+                                         "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/v2.0.12",
+                                         "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/v2.0.12/Kosen-v2.0.12.apk"
+                                     },
+                                     {
                                          "apkSize":  17213094,
                                          "name":  "2.0.11",
                                          "channel":  "release",

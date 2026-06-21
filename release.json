@@ -2,6 +2,15 @@
     "release":  {
                     "versions":  [
                                      {
+                                         "apkSize":  17214385,
+                                         "name":  "2.0.13",
+                                         "channel":  "release",
+                                         "versionCode":  20013,
+                                         "description":  "## Kosen 2.0.13\n\nCorreções e melhorias de estabilidade e desempenho.\n\n[versionCode:20013]\n\n[channel:release]",
+                                         "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/v2.0.13",
+                                         "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/v2.0.13/Kosen-v2.0.13.apk"
+                                     },
+                                     {
                                          "apkSize":  17213471,
                                          "name":  "2.0.12",
                                          "channel":  "release",

@@ -2,6 +2,15 @@
     "release":  {
                     "versions":  [
                                      {
+                                         "apkSize":  17214731,
+                                         "name":  "2.0.16",
+                                         "channel":  "release",
+                                         "versionCode":  20016,
+                                         "description":  "## Kosen 2.0.16\n\nCorreções e melhorias de estabilidade e desempenho.\n\n[versionCode:20016]\n\n[channel:release]",
+                                         "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/v2.0.16",
+                                         "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/v2.0.16/Kosen-v2.0.16.apk"
+                                     },
+                                     {
                                          "apkSize":  17214547,
                                          "name":  "2.0.15",
                                          "channel":  "release",
@@ -81,15 +90,6 @@
                                          "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/v2.0.7/Kosen-v2.0.7.apk",
                                          "apkSize":  17207403,
                                          "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/v2.0.7"
-                                     },
-                                     {
-                                         "channel":  "release",
-                                         "name":  "2.0.6",
-                                         "versionCode":  20006,
-                                         "description":  "## Kosen 2.0.6\n\nAtualização OTA para todos os clientes, inclusive quem está em versões anteriores à 2.0.4.\n\n## Correções\n\n- Fallback público de atualização (manifesto OTA sem login) para clientes sem token embutido no APK\n- Token OTA sempre incluído nas novas compilações release\n- Salto direto de qualquer 2.0.x para a versão mais recente (não é necessário instalar cada versão intermediária)\n\n## Novidades (acumulado desde 2.0.3)\n\n- Histórico de leitura no Fluxo quando há capítulos novos\n- Apagar pesquisas, sugestões de mangá e fontes recentes na busca\n\n[versionCode:20006]\n\n[channel:release]",
-                                         "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/v2.0.6/Kosen-v2.0.6.apk",
-                                         "apkSize":  17207791,
-                                         "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/v2.0.6"
                                      }
                                  ]
                 }

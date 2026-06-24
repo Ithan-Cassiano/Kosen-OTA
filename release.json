@@ -2,6 +2,15 @@
     "release":  {
                     "versions":  [
                                      {
+                                         "apkSize":  17215115,
+                                         "name":  "2.0.17",
+                                         "channel":  "release",
+                                         "versionCode":  20017,
+                                         "description":  "## Kosen 2.0.17\n\nCorreções e melhorias de estabilidade e desempenho.\n\n[versionCode:20017]\n\n[channel:release]",
+                                         "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/v2.0.17",
+                                         "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/v2.0.17/Kosen-v2.0.17.apk"
+                                     },
+                                     {
                                          "apkSize":  17214731,
                                          "name":  "2.0.16",
                                          "channel":  "release",
@@ -81,15 +90,6 @@
                                          "description":  "## Kosen 2.0.8\n\nCorreções e melhorias de estabilidade e desempenho.\n\n[versionCode:20008]\n\n[channel:release]",
                                          "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/v2.0.8",
                                          "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/v2.0.8/Kosen-v2.0.8.apk"
-                                     },
-                                     {
-                                         "channel":  "release",
-                                         "name":  "2.0.7",
-                                         "versionCode":  20007,
-                                         "description":  "## Kosen 2.0.7\n\nCorreção crítica de crash ao abrir o app.\n\n## Correções\n\n- Corrigido crash na inicialização (`AdapterDelegate` duplicado na busca) introduzido na 2.0.4\n\n[versionCode:20007]\n\n[channel:release]",
-                                         "apkUrl":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/download/v2.0.7/Kosen-v2.0.7.apk",
-                                         "apkSize":  17207403,
-                                         "url":  "https://github.com/Ithan-Cassiano/Kosen-OTA/releases/tag/v2.0.7"
                                      }
                                  ]
                 }
